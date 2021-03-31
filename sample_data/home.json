@@ -1,0 +1,41 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "image" : "https://dreammarket.org/public/uploads/banner_img_no_available.png"
+        },
+        {
+            "id": 2,
+            "image" : "https://dreammarket.org/public/uploads/banner_img_no_available.png"
+        },
+        {
+            "id": 3,
+            "image" : "https://dreammarket.org/public/uploads/banner_img_no_available.png"
+        },
+        {
+            "id": 4,
+            "image" : "https://dreammarket.org/public/uploads/banner_img_no_available.png"
+        },
+        {
+            "id": 5,
+            "image" : "https://dreammarket.org/public/uploads/banner_img_no_available.png"
+        }
+    ],
+    "categories": [
+        {
+            "id" : 1,
+            "name" : "Order",
+            "icon" : "order.png"
+        },
+        {
+            "id": 2,
+            "name" : "Customer",
+            "icon" : "profile.png"
+        },
+        {
+            "id": 3,
+            "name" : "Payments",
+            "icon" : "payment.png"
+        }
+    ]
+}
