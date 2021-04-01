@@ -21,7 +21,7 @@
             "image" : "https://images.unsplash.com/photo-1547854760-f580559a870e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1000&q=80"
         }
     ],
-    "categories": [
+    "daftarmenu": [
         {
             "id" : 1,
             "name" : "Order",
@@ -40,17 +40,17 @@
         {
             "id": 4,
             "name" : "Point",
-            "icon" : "payment.png"
+            "icon" : "point.png"
         },
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "payment.png"
+            "icon" : "return.png"
         },
         {
             "id": 6,
             "name" : "Account",
-            "icon" : "payment.png"
+            "icon" : "editUser.png"
         }
     ]
 }
