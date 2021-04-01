@@ -29,12 +29,27 @@
         },
         {
             "id": 2,
-            "name" : "Customer",
+            "name" : "Profile",
             "icon" : "profile.png"
         },
         {
             "id": 3,
             "name" : "Payments",
+            "icon" : "payment.png"
+        },
+        {
+            "id": 4,
+            "name" : "Point",
+            "icon" : "payment.png"
+        },
+        {
+            "id": 5,
+            "name" : "Return",
+            "icon" : "payment.png"
+        },
+        {
+            "id": 6,
+            "name" : "Account",
             "icon" : "payment.png"
         }
     ]
