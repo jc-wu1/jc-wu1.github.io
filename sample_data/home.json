@@ -25,22 +25,22 @@
         {
             "id" : 1,
             "name" : "Order",
-            "icon" : "order.svg"
+            "icon" : "checklist.svg"
         },
         {
             "id": 2,
             "name" : "Profile",
-            "icon" : "profile.png"
+            "icon" : "user.svg"
         },
         {
             "id": 3,
             "name" : "Payments",
-            "icon" : "payment.png"
+            "icon" : "invoice.svg"
         },
         {
             "id": 4,
             "name" : "Point",
-            "icon" : "points.png"
+            "icon" : "medal.svg"
         },
         {
             "id": 5,
