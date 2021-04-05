@@ -25,7 +25,7 @@
         {
             "id" : 1,
             "name" : "Order",
-            "icon" : "order.png"
+            "icon" : "order.svg"
         },
         {
             "id": 2,
@@ -45,7 +45,7 @@
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "return.png"
+            "icon" : "return.svg"
         },
         {
             "id": 6,
