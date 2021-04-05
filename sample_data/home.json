@@ -25,32 +25,32 @@
         {
             "id" : 1,
             "name" : "Order",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "order.png"
         },
         {
             "id": 2,
             "name" : "Profile",
-            "icon" : "https://cdn.iconscout.com/icon/free/png-256/person-1767893-1502146.png"
+            "icon" : "profile.png"
         },
         {
             "id": 3,
             "name" : "Payments",
-            "icon" : "https://svgsilh.com/svg/2693029.svg"
+            "icon" : "payment.png"
         },
         {
             "id": 4,
             "name" : "Point",
-            "icon" : "https://cdn.iconscout.com/icon/free/png-256/rewards-2941163-2434214.png"
+            "icon" : "points.png"
         },
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "https://cdn.iconscout.com/icon/free/png-256/return-package-1970457-1669847.png"
+            "icon" : "return.png"
         },
         {
             "id": 6,
             "name" : "Account",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "person.png"
         }
     ],
 	"newproduct": [
