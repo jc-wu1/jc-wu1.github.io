@@ -25,32 +25,32 @@
         {
             "id" : 1,
             "name" : "Order",
-            "icon" : "order.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         },
         {
             "id": 2,
             "name" : "Profile",
-            "icon" : "profile.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         },
         {
             "id": 3,
             "name" : "Payments",
-            "icon" : "payment.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         },
         {
             "id": 4,
             "name" : "Point",
-            "icon" : "point.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         },
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "return.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         },
         {
             "id": 6,
             "name" : "Account",
-            "icon" : "editUser.png"
+            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
         }
     ],
 	"newproduct": [
