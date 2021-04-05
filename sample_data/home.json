@@ -45,12 +45,12 @@
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "return.svg"
+            "icon" : "exchange.svg"
         },
         {
             "id": 6,
             "name" : "Account",
-            "icon" : "person.png"
+            "icon" : "account.svg"
         }
     ],
 	"newproduct": [
