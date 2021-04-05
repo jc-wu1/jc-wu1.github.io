@@ -30,22 +30,22 @@
         {
             "id": 2,
             "name" : "Profile",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "https://cdn.iconscout.com/icon/free/png-256/person-1767893-1502146.png"
         },
         {
             "id": 3,
             "name" : "Payments",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "https://svgsilh.com/svg/2693029.svg"
         },
         {
             "id": 4,
             "name" : "Point",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "https://cdn.iconscout.com/icon/free/png-256/rewards-2941163-2434214.png"
         },
         {
             "id": 5,
             "name" : "Return",
-            "icon" : "http://cdn.onlinewebfonts.com/svg/img_207056.png"
+            "icon" : "https://cdn.iconscout.com/icon/free/png-256/return-package-1970457-1669847.png"
         },
         {
             "id": 6,
