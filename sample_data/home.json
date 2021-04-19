@@ -29,18 +29,18 @@
         },
         {
             "id": 2,
-            "name" : "Profile",
+            "name" : "Customer",
             "icon" : "user.svg"
         },
         {
             "id": 3,
-            "name" : "Payments",
-            "icon" : "invoice.svg"
+            "name" : "Product",
+            "icon" : "box.svg"
         },
         {
             "id": 4,
-            "name" : "Point",
-            "icon" : "medal.svg"
+            "name" : "Payment",
+            "icon" : "invoice.svg"
         },
         {
             "id": 5,
@@ -49,8 +49,8 @@
         },
         {
             "id": 6,
-            "name" : "Account",
-            "icon" : "account.svg"
+            "name" : "Point Reward",
+            "icon" : "medal.svg"
         }
     ]
 }
