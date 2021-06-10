@@ -22,11 +22,6 @@
         },
         {
             "id": 5,
-            "name" : "Return",
-            "icon" : "exchange.svg"
-        },
-        {
-            "id": 6,
             "name" : "Point Reward",
             "icon" : "medal.svg"
         }
