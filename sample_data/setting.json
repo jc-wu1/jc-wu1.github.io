@@ -1,0 +1,29 @@
+{
+    "daftarmenu": [
+        {
+            "id" : 1,
+            "name" : "Order",
+            "icon" : "checklist.svg"
+        },
+        {
+            "id": 2,
+            "name" : "Customer",
+            "icon" : "user.svg"
+        },
+        {
+            "id": 3,
+            "name" : "Product",
+            "icon" : "open-box.svg"
+        },
+        {
+            "id": 4,
+            "name" : "Payment",
+            "icon" : "invoice.svg"
+        },
+        {
+            "id": 5,
+            "name" : "Point Reward",
+            "icon" : "medal.svg"
+        }
+    ]
+}
