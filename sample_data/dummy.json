@@ -1,0 +1,173 @@
+{
+    "dataSetting": {
+        "idwebset": "1",
+        "web_name": "",
+        "web_logo": "1648546686_f67251cc0854d0d0f14e.webp",
+        "logo_alt": "smart bet",
+        "favicon": "1648548440_fe83827c8fcc6c2e25d5.webp",
+        "homepage_seo_title": "Roda Keberuntungan",
+        "homepage_seo_keyword": "Roda Keberuntungan",
+        "homepage_seo_desc": "Roda Keberuntungan",
+        "copyright": "",
+        "banner": "Dapatkan Info WD Member Lain Di CS",
+        "banner_type": "Text",
+        "text_banner": "",
+        "image_banner": "",
+        "background_loading_color": "#FF9602FF",
+        "background_transition_delay": "20.000",
+        "fortune_wheel": "1647244405_731e97f1cf7556073df1.webp",
+        "centerX": "217.5",
+        "centerY": "229.5",
+        "outerRadius": "186",
+        "innerRadius": "32",
+        "duration": "6",
+        "spins": "6",
+        "backsound": "1647515694_3e575249aa345fba0325.mp3",
+        "spin_sound": "1647515695_08b014ae5be8d7c4bcbc.mp3",
+        "win_sound": "1647515695_e6ef0feea352cd4fda24.mp3",
+        "warning_sound": "1647515695_1e854a989471d97363cd.mp3"
+    },
+    "dataSegment": [
+        {
+            "idsegment": "1",
+            "idselect": "4",
+            "segment_title": "588.000",
+            "segment_color": "#3A17D3FF",
+            "lucky_code": "1-lT0uU",
+            "lucky_percentage": "1",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "2",
+            "idselect": "4",
+            "segment_title": "88.000",
+            "segment_color": "#D61B61FF",
+            "lucky_code": "2-TeJZz",
+            "lucky_percentage": "60",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "3",
+            "idselect": "4",
+            "segment_title": "68.000",
+            "segment_color": "#3150FEFF",
+            "lucky_code": "3-lQ696",
+            "lucky_percentage": "80",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "4",
+            "idselect": "3",
+            "segment_title": "50.000",
+            "segment_color": "#68A03BFF",
+            "lucky_code": "4-3vMJ7",
+            "lucky_percentage": "1",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "5",
+            "idselect": "3",
+            "segment_title": "40.000",
+            "segment_color": "#FF7001FF",
+            "lucky_code": "5-sLt4e",
+            "lucky_percentage": "3",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "6",
+            "idselect": "3",
+            "segment_title": "30.000",
+            "segment_color": "#FEBC31FF",
+            "lucky_code": "6-P2hgD",
+            "lucky_percentage": "10",
+            "font_size": "16",
+            "text_color": "#000"
+        },
+        {
+            "idsegment": "7",
+            "idselect": "3",
+            "segment_title": "20.000",
+            "segment_color": "#FF863BFF",
+            "lucky_code": "7-BJcfS",
+            "lucky_percentage": "50",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "8",
+            "idselect": "3",
+            "segment_title": "10.000",
+            "segment_color": "#121212FF",
+            "lucky_code": "8-382YW",
+            "lucky_percentage": "80",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "9",
+            "idselect": "4",
+            "segment_title": "188.000",
+            "segment_color": "#C3FF69FF",
+            "lucky_code": "9-mjR47",
+            "lucky_percentage": "5",
+            "font_size": "16",
+            "text_color": "#000"
+        },
+        {
+            "idsegment": "10",
+            "idselect": "4",
+            "segment_title": "288.000",
+            "segment_color": "#D30000FF",
+            "lucky_code": "10-IGtKm",
+            "lucky_percentage": "1",
+            "font_size": "16",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "11",
+            "idselect": "4",
+            "segment_title": "888.000",
+            "segment_color": "#FF4AE4FF",
+            "lucky_code": "11-0ROki",
+            "lucky_percentage": "1",
+            "font_size": "0",
+            "text_color": "#fff"
+        },
+        {
+            "idsegment": "12",
+            "idselect": "5",
+            "segment_title": "IPHONE 13 PRO MAX",
+            "segment_color": "#57B9D7FF",
+            "lucky_code": "12-9KJBS",
+            "lucky_percentage": "1",
+            "font_size": "14",
+            "text_color": "#000"
+        },
+        {
+            "idsegment": "13",
+            "idselect": "5",
+            "segment_title": "LOGAM MULIA 25gr",
+            "segment_color": "#FFFF7CFF",
+            "lucky_code": "13-6r5l9",
+            "lucky_percentage": "1",
+            "font_size": "15",
+            "text_color": "#000"
+        }
+    ],
+    "countSegment": 13,
+    "dataBackground": [
+        "assets/img/background/1648628631_87ea74f1b413962e4418.webp",
+        "assets/img/background/1648628640_f373722ae1f57cfaa105.webp",
+        "assets/img/background/1648628651_d2ae79ecbe2c7ff87ef8.webp"
+    ],
+    "backgroundDelay": [
+        20000,
+        20000,
+        20000
+    ]
+}
